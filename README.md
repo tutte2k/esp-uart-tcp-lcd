@@ -7,4 +7,4 @@ echo "hjkl" | nc {{ip_addr}} 8080
 115200 baud
 
 # koppling
-./image.png
+koppling: ./image.png esp-idf v5.3.1
